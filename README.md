@@ -15,7 +15,7 @@ Projekan web berbasis inspirasi "Send The Song" yang memungkinkan pengguna mengi
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Komponen | Teknologi |
 | :--- | :--- |
